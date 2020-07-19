@@ -1,0 +1,10 @@
+#vd{
+    display: flex;
+flex-direction: column;
+    align-items: center;
+    padding: 100px;
+    background-image: url(Perman.jpg);
+    background-repeat: no-repeat;
+        background-size: cover;
+}
+
